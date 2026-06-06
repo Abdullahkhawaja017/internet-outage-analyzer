@@ -1,0 +1,12 @@
+pyspark
+pandas
+scikit-learn
+requests
+plotly
+dash
+open-meteo-api
+python-dotenv
+joblib
+
+run:
+C:\Users\abbas\AppData\Local\Programs\Python\Python311\python.exe dashboard/app.py
